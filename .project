@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>TesteA</name>
+=======
+	<name>TesteB</name>
+>>>>>>> branch 'master' of https://github.com/LCenteleghe/Teste.git
 	<comment></comment>
 	<projects>
 	</projects>
